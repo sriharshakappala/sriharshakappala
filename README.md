@@ -2,10 +2,10 @@ Hey, I am a Software Engineer from India. I am a tech enthusiast, blogger and a 
 
 ## Co-ordinates
 
-- Stackoverflow: [https://stackoverflow.com/users/2357380/sri-harsha-kappala][3]
-- Medium: [https://medium.com/@IamHarsha][4]
-- Twitter: [https://twitter.com/mylittlecorner][1]
-- LinkedIn: [https://www.linkedin.com/in/sriharshakappala/][2]
+- Stackoverflow: https://stackoverflow.com/users/2357380/sri-harsha-kappala
+- Medium: https://medium.com/@IamHarsha
+- Twitter: https://twitter.com/mylittlecorner
+- LinkedIn: https://www.linkedin.com/in/sriharshakappala/
 
 ## My GitHub Stats
 
